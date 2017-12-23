@@ -1,0 +1,36 @@
+    1  su vanitha
+    2  mkdir sample
+    3  mkdir sample1
+    4  mkdir hai
+    5  cd ~
+    6  mkdir sample1
+    7  cd sample1
+    8  git init --bare
+    9  git clone https://github.com/vinnivanitha/Group-3-j2d.git
+   10  touch ttt
+   11  vim
+   12  vim ttt
+   13  cat ttt
+   14  history 
+   15  history > lll
+   16  cat lll
+   17  cd lll
+   18  ls
+   19  git add lll
+   20  git add .
+   21  cd ..
+   22  cd Group-3-j2d
+   23  cd sample
+   24  cd sample1
+   25  cd Group-3-j2d
+   26  ls
+   27  git add .
+   28  git commit -m"hhh"
+   29  git config --global user.email "you@example.com"
+   30    git config --global user.name "Your Name"
+   31  git config --global user.email "vinnivanitha99@gmail.com"
+   32    git config --global user.name "vanitha"
+   33  git config --
+   34  git commit -m"hhh"
+   35  ls
+   36  history > lll
